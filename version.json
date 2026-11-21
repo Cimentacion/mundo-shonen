@@ -1,1 +1,6 @@
-{"codigo": 25, "nombre": "0.15.3", "apk": "MundoShonen.apk", "notas": "La zona del joystick es ahora un hueco negro enmarcado con los bordes del pack."}
+{
+ "codigo": 26,
+ "nombre": "0.16",
+ "apk": "https://raw.githubusercontent.com/Cimentacion/mundo-shonen/main/MundoShonen.apk",
+ "notas": "Piedras oráculo, posadas, hambre y sueño, mazmorras, guaridas, campamento, clima, desafíos, legado, diario, talar árboles, desenfoque en los bordes."
+}
