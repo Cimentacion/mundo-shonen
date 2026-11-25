@@ -1,1 +1,1 @@
-{"codigo": 214, "nombre": "1.68.1", "apk": "MundoShonen.apk", "notas": "Ciudad del Rey Demonio: gremios, cuarteles y capillas ahora son edificios 3D (salón con torreones, fortín almenado, capilla con campanario) en vez de dibujos planos."}
+{"codigo": 215, "nombre": "1.68.2", "apk": "MundoShonen.apk", "notas": "Rendimiento con gráficos bajos: de noche y con tormenta la GPU iba al doble. Las sombras de las luces de noche usan 5 muestras en vez de 16, el fogonazo del rayo ilumina sin recortar sombras y la lluvia lleva la mitad de gotas."}
